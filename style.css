@@ -84,7 +84,7 @@ body {
     text-align: center;
     color: var(--white);
     background: linear-gradient(rgba(45,10,24,0.6), rgba(45,10,24,0.6)),
-                url('images/logoo.png') center/cover;
+                url('logoo.png') center/cover;
 }
 
 .hero-title {
